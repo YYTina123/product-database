@@ -1,0 +1,1354 @@
+[
+  {
+    "id": "8492055a-9429-444e-85ae-d65fd2f96e7d",
+    "customer": "宏達科技",
+    "spec": "外接硬碟 2TB USB 3.2",
+    "price": 2393,
+    "quantity": 10,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "15922b5d-d153-45aa-ad65-7527e493c7af",
+    "customer": "台北辦公家具",
+    "spec": "抗菌洗手乳 500ml",
+    "price": 90,
+    "quantity": 70,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "f48e3e61-c803-4728-9e0c-41342b93da6f",
+    "customer": "宏達科技",
+    "spec": "A4 影印紙 80g / 500 張",
+    "price": 127,
+    "quantity": 27,
+    "date": "2026-10-28"
+  },
+  {
+    "id": "a177eac7-d38f-4449-a934-3a28aecff18b",
+    "customer": "高雄印刷廠",
+    "spec": "原子筆 0.5mm 藍色 / 50 支盒裝",
+    "price": 323,
+    "quantity": 7,
+    "date": "2026-10-27"
+  },
+  {
+    "id": "97052a85-952a-4154-b324-9a626c520a55",
+    "customer": "大同文具行",
+    "spec": "無線滑鼠 靜音款 灰色",
+    "price": 410,
+    "quantity": 26,
+    "date": "2026-10-27"
+  },
+  {
+    "id": "da4697f9-d2fa-4c9f-83f7-442ee2f28d7c",
+    "customer": "綠色生活館",
+    "spec": "無線滑鼠 靜音款 灰色",
+    "price": 456,
+    "quantity": 6,
+    "date": "2026-10-27"
+  },
+  {
+    "id": "fae063b6-e04e-4487-8e3e-219bbbf3abe2",
+    "customer": "新竹電子材料",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 140,
+    "quantity": 29,
+    "date": "2026-10-27"
+  },
+  {
+    "id": "712fdf35-3fa0-4d63-bd4d-4cb7cf0a960d",
+    "customer": "宏達科技",
+    "spec": "外接硬碟 2TB USB 3.2",
+    "price": 2231,
+    "quantity": 7,
+    "date": "2026-10-26"
+  },
+  {
+    "id": "e995760e-4ab5-45ba-b5f6-735dd711dc74",
+    "customer": "台北辦公家具",
+    "spec": "27 吋 IPS 螢幕 2K 75Hz",
+    "price": 6978,
+    "quantity": 4,
+    "date": "2026-10-26"
+  },
+  {
+    "id": "60d61484-d253-451c-8fd9-de77a70b8bb4",
+    "customer": "安心醫材",
+    "spec": "A4 影印紙 80g / 500 張",
+    "price": 122,
+    "quantity": 19,
+    "date": "2026-10-23"
+  },
+  {
+    "id": "8b8116f7-658f-46f8-b082-ae34bf43dd6f",
+    "customer": "台北辦公家具",
+    "spec": "辦公椅 人體工學網背 黑色",
+    "price": 4381,
+    "quantity": 4,
+    "date": "2026-10-22"
+  },
+  {
+    "id": "f810c74a-c34f-49c6-9b98-d4cc00f5cd3c",
+    "customer": "綠色生活館",
+    "spec": "無線滑鼠 靜音款 灰色",
+    "price": 418,
+    "quantity": 18,
+    "date": "2026-10-22"
+  },
+  {
+    "id": "1589d32d-41c2-4529-8d70-8497720bf171",
+    "customer": "台北辦公家具",
+    "spec": "水泥漆 白色 1 加侖",
+    "price": 740,
+    "quantity": 13,
+    "date": "2026-10-22"
+  },
+  {
+    "id": "4bb4cc4d-3589-4d8a-a9f6-27170decc7be",
+    "customer": "宏達科技",
+    "spec": "A3 影印紙 80g / 500 張",
+    "price": 216,
+    "quantity": 20,
+    "date": "2026-10-22"
+  },
+  {
+    "id": "7c6469e7-e9d7-40df-bc5b-665b8ba5dc67",
+    "customer": "永豐五金",
+    "spec": "無線滑鼠 靜音款 灰色",
+    "price": 415,
+    "quantity": 23,
+    "date": "2026-10-21"
+  },
+  {
+    "id": "8bc4f3d8-8e14-4092-a338-5db58236409d",
+    "customer": "鴻運建材",
+    "spec": "水泥漆 白色 1 加侖",
+    "price": 706,
+    "quantity": 8,
+    "date": "2026-10-21"
+  },
+  {
+    "id": "35f8662b-ebd4-4b76-b414-05e16ed89784",
+    "customer": "高雄印刷廠",
+    "spec": "外接硬碟 2TB USB 3.2",
+    "price": 2336,
+    "quantity": 7,
+    "date": "2026-10-21"
+  },
+  {
+    "id": "3d0a73fd-5fa1-4f59-80de-74a2cff2fe56",
+    "customer": "鴻運建材",
+    "spec": "27 吋 IPS 螢幕 2K 75Hz",
+    "price": 6034,
+    "quantity": 3,
+    "date": "2026-10-21"
+  },
+  {
+    "id": "22d3bbc4-dcc0-4bb9-97aa-ce9f786ecfc5",
+    "customer": "台北辦公家具",
+    "spec": "原子筆 0.5mm 藍色 / 50 支盒裝",
+    "price": 339,
+    "quantity": 3,
+    "date": "2026-10-20"
+  },
+  {
+    "id": "0a84a159-3dc7-4820-9110-191f9b8c60d6",
+    "customer": "台北辦公家具",
+    "spec": "辦公椅 人體工學網背 黑色",
+    "price": 4271,
+    "quantity": 1,
+    "date": "2026-10-20"
+  },
+  {
+    "id": "70160aaa-02a2-499b-8d4b-eeddb9f56f2c",
+    "customer": "王小明",
+    "spec": "電鑽 18V 無刷 雙電池組",
+    "price": 4544,
+    "quantity": 1,
+    "date": "2026-10-19"
+  },
+  {
+    "id": "7f342d39-da58-44d5-9245-cc27a34a8c5d",
+    "customer": "台北辦公家具",
+    "spec": "原子筆 0.5mm 藍色 / 50 支盒裝",
+    "price": 321,
+    "quantity": 2,
+    "date": "2026-10-19"
+  },
+  {
+    "id": "8fcd9b69-a771-4e74-bd63-34a9e1122e24",
+    "customer": "大同文具行",
+    "spec": "水泥漆 白色 1 加侖",
+    "price": 658,
+    "quantity": 10,
+    "date": "2026-10-19"
+  },
+  {
+    "id": "85e989ed-3cf8-4d72-a691-eb3b265faf13",
+    "customer": "台北辦公家具",
+    "spec": "水泥漆 白色 1 加侖",
+    "price": 680,
+    "quantity": 6,
+    "date": "2026-10-19"
+  },
+  {
+    "id": "00dd7b10-9119-426b-b533-a0b369516fc6",
+    "customer": "鴻運建材",
+    "spec": "不鏽鋼螺絲 M6×20 / 100 入",
+    "price": 188,
+    "quantity": 15,
+    "date": "2026-10-18"
+  },
+  {
+    "id": "dac63e95-6654-4319-acb6-19ad38edbae9",
+    "customer": "大同文具行",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 158,
+    "quantity": 71,
+    "date": "2026-10-16"
+  },
+  {
+    "id": "cd99d62c-3f00-48de-a58f-20ce1f903230",
+    "customer": "金鼎餐飲",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 158,
+    "quantity": 10,
+    "date": "2026-10-15"
+  },
+  {
+    "id": "34133246-63d6-4504-bf24-e008691b3087",
+    "customer": "陳記商行",
+    "spec": "水泥漆 白色 1 加侖",
+    "price": 759,
+    "quantity": 3,
+    "date": "2026-10-14"
+  },
+  {
+    "id": "d8f0ff51-38e3-491e-ab9b-2ca3b0f35206",
+    "customer": "鴻運建材",
+    "spec": "原子筆 0.5mm 藍色 / 50 支盒裝",
+    "price": 372,
+    "quantity": 6,
+    "date": "2026-10-14"
+  },
+  {
+    "id": "5d98cc68-f6c4-4102-ab93-2c60ac53eecb",
+    "customer": "新竹電子材料",
+    "spec": "瓦楞紙箱 60×40×40cm",
+    "price": 48,
+    "quantity": 88,
+    "date": "2026-10-14"
+  },
+  {
+    "id": "19f41053-c740-48a9-ae0d-b4ce222aa6ba",
+    "customer": "高雄印刷廠",
+    "spec": "雷射碳粉匣 HP 26A 相容",
+    "price": 1611,
+    "quantity": 5,
+    "date": "2026-10-13"
+  },
+  {
+    "id": "48a254d9-0006-4458-8660-790694633cc5",
+    "customer": "新竹電子材料",
+    "spec": "辦公椅 人體工學網背 黑色",
+    "price": 4385,
+    "quantity": 5,
+    "date": "2026-10-13"
+  },
+  {
+    "id": "6fb89182-a9aa-4799-aea2-fa13f9e90b12",
+    "customer": "大同文具行",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 135,
+    "quantity": 49,
+    "date": "2026-10-13"
+  },
+  {
+    "id": "97260005-b4ab-41cd-8271-a32992ecafd9",
+    "customer": "台北辦公家具",
+    "spec": "無線滑鼠 靜音款 灰色",
+    "price": 423,
+    "quantity": 16,
+    "date": "2026-10-13"
+  },
+  {
+    "id": "8132dbab-3937-4555-bb05-5be498c94a68",
+    "customer": "宏達科技",
+    "spec": "雷射碳粉匣 HP 26A 相容",
+    "price": 1628,
+    "quantity": 2,
+    "date": "2026-10-12"
+  },
+  {
+    "id": "47a5b946-a48d-41e4-af49-13b7420ccb2f",
+    "customer": "大同文具行",
+    "spec": "27 吋 IPS 螢幕 2K 75Hz",
+    "price": 6565,
+    "quantity": 1,
+    "date": "2026-10-10"
+  },
+  {
+    "id": "e639f88d-7697-4438-bc3e-936878efa323",
+    "customer": "金鼎餐飲",
+    "spec": "無線滑鼠 靜音款 灰色",
+    "price": 438,
+    "quantity": 21,
+    "date": "2026-10-09"
+  },
+  {
+    "id": "41f74816-2d98-4c6b-89c2-f3c602624312",
+    "customer": "金鼎餐飲",
+    "spec": "瓦楞紙箱 60×40×40cm",
+    "price": 47,
+    "quantity": 190,
+    "date": "2026-10-09"
+  },
+  {
+    "id": "0abe48c2-6688-480c-8e73-fc043f1b80f0",
+    "customer": "永豐五金",
+    "spec": "A3 影印紙 80g / 500 張",
+    "price": 263,
+    "quantity": 17,
+    "date": "2026-10-08"
+  },
+  {
+    "id": "c852ca69-bf35-429a-8f89-5e67850a4cb8",
+    "customer": "綠色生活館",
+    "spec": "27 吋 IPS 螢幕 2K 75Hz",
+    "price": 6758,
+    "quantity": 1,
+    "date": "2026-10-08"
+  },
+  {
+    "id": "854f3ec4-4b96-4a5c-a352-43b2b417707d",
+    "customer": "安心醫材",
+    "spec": "A4 影印紙 80g / 500 張",
+    "price": 109,
+    "quantity": 24,
+    "date": "2026-10-08"
+  },
+  {
+    "id": "762df9a8-b4b9-4a8e-b1c7-44f98f241ee8",
+    "customer": "永豐五金",
+    "spec": "27 吋 IPS 螢幕 2K 75Hz",
+    "price": 6775,
+    "quantity": 3,
+    "date": "2026-10-07"
+  },
+  {
+    "id": "e412df7e-ff4e-449e-894a-96fa89a589b6",
+    "customer": "大同文具行",
+    "spec": "不鏽鋼螺絲 M6×20 / 100 入",
+    "price": 183,
+    "quantity": 34,
+    "date": "2026-10-06"
+  },
+  {
+    "id": "8c80583b-c5dc-4d2e-8503-8ca13789dc0d",
+    "customer": "新竹電子材料",
+    "spec": "原子筆 0.5mm 藍色 / 50 支盒裝",
+    "price": 374,
+    "quantity": 5,
+    "date": "2026-10-05"
+  },
+  {
+    "id": "f1d02732-b7fc-4ada-98ef-68f460c3924f",
+    "customer": "林美玲",
+    "spec": "L 型辦公桌 160×120cm 白橡木",
+    "price": 8016,
+    "quantity": 1,
+    "date": "2026-10-03"
+  },
+  {
+    "id": "fab14da3-4ab7-425b-a148-90b1f9660461",
+    "customer": "大同文具行",
+    "spec": "無線滑鼠 靜音款 灰色",
+    "price": 440,
+    "quantity": 9,
+    "date": "2026-10-02"
+  },
+  {
+    "id": "4ddb433c-d14c-4e93-8d8c-077338e123e5",
+    "customer": "晨光書局",
+    "spec": "電鑽 18V 無刷 雙電池組",
+    "price": 4453,
+    "quantity": 2,
+    "date": "2026-10-02"
+  },
+  {
+    "id": "e1255992-4f9b-4bc1-be5c-6097248736c5",
+    "customer": "陳記商行",
+    "spec": "原子筆 0.5mm 藍色 / 50 支盒裝",
+    "price": 324,
+    "quantity": 1,
+    "date": "2026-10-01"
+  },
+  {
+    "id": "1d6928fb-a530-44fd-9a5d-767d44a5bb88",
+    "customer": "永豐五金",
+    "spec": "27 吋 IPS 螢幕 2K 75Hz",
+    "price": 5988,
+    "quantity": 1,
+    "date": "2026-10-01"
+  },
+  {
+    "id": "4b932774-21bc-4dc3-9389-e7c1b67de0fe",
+    "customer": "永豐五金",
+    "spec": "抗菌洗手乳 500ml",
+    "price": 85,
+    "quantity": 44,
+    "date": "2026-10-01"
+  },
+  {
+    "id": "49e7a562-619d-4906-92d4-04cea8f909bb",
+    "customer": "金鼎餐飲",
+    "spec": "無線滑鼠 靜音款 灰色",
+    "price": 415,
+    "quantity": 22,
+    "date": "2026-09-30"
+  },
+  {
+    "id": "5005627e-9f88-4a0e-8f18-8d3cfb82b86f",
+    "customer": "王小明",
+    "spec": "LED 燈管 T8 4 尺 18W",
+    "price": 282,
+    "quantity": 58,
+    "date": "2026-09-30"
+  },
+  {
+    "id": "35cdd44a-7f7b-4b45-9818-dc1c55f6b191",
+    "customer": "林美玲",
+    "spec": "27 吋 IPS 螢幕 2K 75Hz",
+    "price": 6478,
+    "quantity": 4,
+    "date": "2026-09-29"
+  },
+  {
+    "id": "95872bca-42a3-482a-b46c-99acbdd43756",
+    "customer": "金鼎餐飲",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 147,
+    "quantity": 60,
+    "date": "2026-09-29"
+  },
+  {
+    "id": "90ab6111-d09a-4203-951a-d9c010cbc9a5",
+    "customer": "安心醫材",
+    "spec": "L 型辦公桌 160×120cm 白橡木",
+    "price": 7890,
+    "quantity": 3,
+    "date": "2026-09-29"
+  },
+  {
+    "id": "c0bcf014-5c5e-433c-87f8-75268828c1d3",
+    "customer": "陳記商行",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 153,
+    "quantity": 84,
+    "date": "2026-09-29"
+  },
+  {
+    "id": "05dcf6aa-bcfe-4aa6-aa57-d700186eb819",
+    "customer": "台北辦公家具",
+    "spec": "咖啡豆 衣索比亞 1kg",
+    "price": 953,
+    "quantity": 15,
+    "date": "2026-09-28"
+  },
+  {
+    "id": "ce08aba3-8388-44a2-a3c7-6ac28f15a8c8",
+    "customer": "高雄印刷廠",
+    "spec": "雷射碳粉匣 HP 26A 相容",
+    "price": 1650,
+    "quantity": 3,
+    "date": "2026-09-27"
+  },
+  {
+    "id": "1edcbaa5-bddb-479c-8982-4ea56b382ca1",
+    "customer": "陳記商行",
+    "spec": "外接硬碟 2TB USB 3.2",
+    "price": 2502,
+    "quantity": 6,
+    "date": "2026-09-25"
+  },
+  {
+    "id": "502fd089-9841-4119-8698-6823d978378f",
+    "customer": "宏達科技",
+    "spec": "LED 燈管 T8 4 尺 18W",
+    "price": 267,
+    "quantity": 43,
+    "date": "2026-09-25"
+  },
+  {
+    "id": "514ea73c-21d0-4724-9506-ccec1a82c8cc",
+    "customer": "新竹電子材料",
+    "spec": "USB-C 充電線 1m 編織款",
+    "price": 203,
+    "quantity": 36,
+    "date": "2026-09-25"
+  },
+  {
+    "id": "413ecd36-b878-46c0-a866-8494e2b25b9f",
+    "customer": "金鼎餐飲",
+    "spec": "A3 影印紙 80g / 500 張",
+    "price": 256,
+    "quantity": 3,
+    "date": "2026-09-24"
+  },
+  {
+    "id": "04e3b11e-69f3-433b-80fb-54a498b51a5b",
+    "customer": "大同文具行",
+    "spec": "USB-C 充電線 1m 編織款",
+    "price": 187,
+    "quantity": 65,
+    "date": "2026-09-23"
+  },
+  {
+    "id": "6a534c73-21b5-4505-8e92-7ca2fc57ff4f",
+    "customer": "林美玲",
+    "spec": "無線滑鼠 靜音款 灰色",
+    "price": 441,
+    "quantity": 28,
+    "date": "2026-09-23"
+  },
+  {
+    "id": "0f2ef3c7-1c92-4e00-81f4-0c344436d587",
+    "customer": "金鼎餐飲",
+    "spec": "不鏽鋼螺絲 M6×20 / 100 入",
+    "price": 196,
+    "quantity": 15,
+    "date": "2026-09-22"
+  },
+  {
+    "id": "913c6528-3d8a-4345-b65a-a557fd558156",
+    "customer": "陳記商行",
+    "spec": "瓦楞紙箱 60×40×40cm",
+    "price": 46,
+    "quantity": 182,
+    "date": "2026-09-21"
+  },
+  {
+    "id": "b6eab6ca-e7bf-4b8e-820b-878cc46d1145",
+    "customer": "永豐五金",
+    "spec": "電鑽 18V 無刷 雙電池組",
+    "price": 4375,
+    "quantity": 1,
+    "date": "2026-09-21"
+  },
+  {
+    "id": "6892a265-1dcc-4182-ad92-610b545e2fde",
+    "customer": "宏達科技",
+    "spec": "L 型辦公桌 160×120cm 白橡木",
+    "price": 8164,
+    "quantity": 1,
+    "date": "2026-09-21"
+  },
+  {
+    "id": "341147c9-610e-458c-8c8e-ab0fe3d077c7",
+    "customer": "新竹電子材料",
+    "spec": "L 型辦公桌 160×120cm 白橡木",
+    "price": 8131,
+    "quantity": 1,
+    "date": "2026-09-18"
+  },
+  {
+    "id": "222862a5-069e-4998-a46d-675a74feb5c0",
+    "customer": "永豐五金",
+    "spec": "不鏽鋼螺絲 M6×20 / 100 入",
+    "price": 190,
+    "quantity": 11,
+    "date": "2026-09-18"
+  },
+  {
+    "id": "78f4a0bd-2279-43d7-b943-31e1e67f6136",
+    "customer": "永豐五金",
+    "spec": "LED 燈管 T8 4 尺 18W",
+    "price": 242,
+    "quantity": 36,
+    "date": "2026-09-18"
+  },
+  {
+    "id": "8783b868-a414-4ba1-8052-9757db3a6c81",
+    "customer": "高雄印刷廠",
+    "spec": "不鏽鋼螺絲 M6×20 / 100 入",
+    "price": 173,
+    "quantity": 14,
+    "date": "2026-09-18"
+  },
+  {
+    "id": "f9ff3e01-c5ea-4bf4-a57d-15a5d35fab9b",
+    "customer": "大同文具行",
+    "spec": "無線滑鼠 靜音款 灰色",
+    "price": 436,
+    "quantity": 5,
+    "date": "2026-09-17"
+  },
+  {
+    "id": "96df78a0-bfb2-49f6-91c5-c04e6d28f6d8",
+    "customer": "永豐五金",
+    "spec": "辦公椅 人體工學網背 黑色",
+    "price": 3596,
+    "quantity": 6,
+    "date": "2026-09-17"
+  },
+  {
+    "id": "286150e0-ed18-4b68-862c-6d102eb89048",
+    "customer": "新竹電子材料",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 151,
+    "quantity": 60,
+    "date": "2026-09-17"
+  },
+  {
+    "id": "f571403c-0a11-406e-8848-731c5d01d75b",
+    "customer": "綠色生活館",
+    "spec": "LED 燈管 T8 4 尺 18W",
+    "price": 243,
+    "quantity": 60,
+    "date": "2026-09-16"
+  },
+  {
+    "id": "73742c34-9d43-45a2-ac76-ac3faec39675",
+    "customer": "大同文具行",
+    "spec": "辦公椅 人體工學網背 黑色",
+    "price": 4262,
+    "quantity": 4,
+    "date": "2026-09-15"
+  },
+  {
+    "id": "399ba72f-6288-4b4b-ba74-59d6fdab03ae",
+    "customer": "晨光書局",
+    "spec": "原子筆 0.5mm 藍色 / 50 支盒裝",
+    "price": 342,
+    "quantity": 7,
+    "date": "2026-09-14"
+  },
+  {
+    "id": "58ed0ee4-f5a6-4e9f-8559-adfe38379f15",
+    "customer": "新竹電子材料",
+    "spec": "27 吋 IPS 螢幕 2K 75Hz",
+    "price": 6699,
+    "quantity": 5,
+    "date": "2026-09-14"
+  },
+  {
+    "id": "0864ec14-9d50-42c6-b91d-faad64ca16f7",
+    "customer": "林美玲",
+    "spec": "L 型辦公桌 160×120cm 白橡木",
+    "price": 8259,
+    "quantity": 4,
+    "date": "2026-09-12"
+  },
+  {
+    "id": "de9f248c-9daa-4126-97dd-f6acc7ff112c",
+    "customer": "王小明",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 156,
+    "quantity": 76,
+    "date": "2026-09-11"
+  },
+  {
+    "id": "c9d53959-e6b0-4a7f-8879-a42338ae737c",
+    "customer": "安心醫材",
+    "spec": "不鏽鋼螺絲 M6×20 / 100 入",
+    "price": 165,
+    "quantity": 17,
+    "date": "2026-09-11"
+  },
+  {
+    "id": "9046dc7b-c48a-445e-85ae-628b3ccbd897",
+    "customer": "永豐五金",
+    "spec": "水泥漆 白色 1 加侖",
+    "price": 759,
+    "quantity": 14,
+    "date": "2026-09-11"
+  },
+  {
+    "id": "b19e10f6-d16c-4578-908f-4f6b0c16d7c0",
+    "customer": "大同文具行",
+    "spec": "電鑽 18V 無刷 雙電池組",
+    "price": 5007,
+    "quantity": 2,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "17f87749-7c4b-49cc-a1d9-f34fdbb549df",
+    "customer": "新竹電子材料",
+    "spec": "L 型辦公桌 160×120cm 白橡木",
+    "price": 7599,
+    "quantity": 1,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "775d3131-6f54-42ce-97ae-81f25b2a31da",
+    "customer": "台北辦公家具",
+    "spec": "抗菌洗手乳 500ml",
+    "price": 82,
+    "quantity": 108,
+    "date": "2026-09-10"
+  },
+  {
+    "id": "ded01a49-a222-47c2-8997-03d8d8a87db9",
+    "customer": "金鼎餐飲",
+    "spec": "不鏽鋼螺絲 M6×20 / 100 入",
+    "price": 177,
+    "quantity": 28,
+    "date": "2026-09-09"
+  },
+  {
+    "id": "09a8b60b-705d-4e0e-a7e0-80d77d8750b0",
+    "customer": "大同文具行",
+    "spec": "A3 影印紙 80g / 500 張",
+    "price": 233,
+    "quantity": 8,
+    "date": "2026-09-09"
+  },
+  {
+    "id": "c81e5593-0e29-4808-a5c1-39302cac0b3a",
+    "customer": "晨光書局",
+    "spec": "咖啡豆 衣索比亞 1kg",
+    "price": 1036,
+    "quantity": 12,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "6f11c0db-ad0e-4bd6-a4f7-d2a9ed4e823e",
+    "customer": "高雄印刷廠",
+    "spec": "辦公椅 人體工學網背 黑色",
+    "price": 3842,
+    "quantity": 8,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "5af999d6-36e1-46f0-b584-b9653fd90a21",
+    "customer": "大同文具行",
+    "spec": "水泥漆 白色 1 加侖",
+    "price": 748,
+    "quantity": 16,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "38e928c4-cad1-406c-9731-b2b3f0026ea5",
+    "customer": "安心醫材",
+    "spec": "原子筆 0.5mm 藍色 / 50 支盒裝",
+    "price": 348,
+    "quantity": 8,
+    "date": "2026-09-08"
+  },
+  {
+    "id": "b7e8fdaf-b564-4812-bc9c-6f70bef9f748",
+    "customer": "台北辦公家具",
+    "spec": "抗菌洗手乳 500ml",
+    "price": 93,
+    "quantity": 103,
+    "date": "2026-09-07"
+  },
+  {
+    "id": "1a27124f-b1c8-44c2-af6f-2d2a80534fb6",
+    "customer": "綠色生活館",
+    "spec": "USB-C 充電線 1m 編織款",
+    "price": 202,
+    "quantity": 50,
+    "date": "2026-09-07"
+  },
+  {
+    "id": "78401d88-27e8-427b-bab0-8cd481b28066",
+    "customer": "陳記商行",
+    "spec": "抗菌洗手乳 500ml",
+    "price": 84,
+    "quantity": 102,
+    "date": "2026-09-07"
+  },
+  {
+    "id": "38a7936b-9a32-4cc4-9806-2b074f247eef",
+    "customer": "安心醫材",
+    "spec": "外接硬碟 2TB USB 3.2",
+    "price": 2626,
+    "quantity": 8,
+    "date": "2026-09-04"
+  },
+  {
+    "id": "f8d07498-dcf2-4030-9978-67f616276dfb",
+    "customer": "林美玲",
+    "spec": "抗菌洗手乳 500ml",
+    "price": 98,
+    "quantity": 94,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "c7f857af-f949-423b-b59f-a8d7cf44434c",
+    "customer": "鴻運建材",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 157,
+    "quantity": 52,
+    "date": "2026-09-03"
+  },
+  {
+    "id": "803fb205-fbd5-4958-a70e-a8e15c3dd85e",
+    "customer": "宏達科技",
+    "spec": "LED 燈管 T8 4 尺 18W",
+    "price": 238,
+    "quantity": 26,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "75e56f9f-9a16-4aba-916d-5ea67c690bf9",
+    "customer": "新竹電子材料",
+    "spec": "A3 影印紙 80g / 500 張",
+    "price": 232,
+    "quantity": 13,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "f92fe0e3-27c5-4e70-9358-8e532eacccfc",
+    "customer": "晨光書局",
+    "spec": "電鑽 18V 無刷 雙電池組",
+    "price": 4461,
+    "quantity": 2,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "bc06b6ef-348a-4e77-8a17-0121719f7dd5",
+    "customer": "宏達科技",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 157,
+    "quantity": 71,
+    "date": "2026-09-02"
+  },
+  {
+    "id": "927acf2a-bec2-4bd7-985a-2f3340910cf0",
+    "customer": "新竹電子材料",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 157,
+    "quantity": 75,
+    "date": "2026-09-01"
+  },
+  {
+    "id": "4ab46e54-9e38-4d52-b62d-cf6a8290edec",
+    "customer": "宏達科技",
+    "spec": "不鏽鋼螺絲 M6×20 / 100 入",
+    "price": 165,
+    "quantity": 37,
+    "date": "2026-09-01"
+  },
+  {
+    "id": "c8a576ba-6ff2-428f-93e7-562d650c5edf",
+    "customer": "高雄印刷廠",
+    "spec": "USB-C 充電線 1m 編織款",
+    "price": 201,
+    "quantity": 51,
+    "date": "2026-09-01"
+  },
+  {
+    "id": "e365b9c9-8dd2-481a-bd20-1f58b72244b7",
+    "customer": "安心醫材",
+    "spec": "雷射碳粉匣 HP 26A 相容",
+    "price": 1749,
+    "quantity": 3,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "d6657d24-081e-4746-a5b4-5251f0dda164",
+    "customer": "大同文具行",
+    "spec": "咖啡豆 衣索比亞 1kg",
+    "price": 945,
+    "quantity": 13,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "70981f05-54ab-47cc-9c98-7e612ab5fc98",
+    "customer": "宏達科技",
+    "spec": "L 型辦公桌 160×120cm 白橡木",
+    "price": 7925,
+    "quantity": 1,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "8cedee39-b1c4-40d7-814a-73cc0d4a9bf2",
+    "customer": "高雄印刷廠",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 162,
+    "quantity": 96,
+    "date": "2026-08-31"
+  },
+  {
+    "id": "deae4d6f-26cc-4d67-9205-037465d493af",
+    "customer": "台北辦公家具",
+    "spec": "A4 影印紙 80g / 500 張",
+    "price": 123,
+    "quantity": 9,
+    "date": "2026-08-28"
+  },
+  {
+    "id": "c6929939-c8b7-4348-8f93-0d40a552a05d",
+    "customer": "綠色生活館",
+    "spec": "抗菌洗手乳 500ml",
+    "price": 87,
+    "quantity": 45,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "14c36b9b-3857-4813-b8b3-05e3a911d4c0",
+    "customer": "大同文具行",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 161,
+    "quantity": 72,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "59cd06d8-7588-47bd-855f-c921679c2a61",
+    "customer": "永豐五金",
+    "spec": "27 吋 IPS 螢幕 2K 75Hz",
+    "price": 6428,
+    "quantity": 2,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "a0c8860f-7bd9-4a20-aa88-e2a5420ed87a",
+    "customer": "大同文具行",
+    "spec": "A3 影印紙 80g / 500 張",
+    "price": 224,
+    "quantity": 7,
+    "date": "2026-08-27"
+  },
+  {
+    "id": "5df733d5-8773-4353-a1a1-2f375239ad97",
+    "customer": "宏達科技",
+    "spec": "水泥漆 白色 1 加侖",
+    "price": 646,
+    "quantity": 12,
+    "date": "2026-08-26"
+  },
+  {
+    "id": "d0e7fe19-fd62-4950-9298-fb7aa1a5f770",
+    "customer": "綠色生活館",
+    "spec": "不鏽鋼螺絲 M6×20 / 100 入",
+    "price": 183,
+    "quantity": 27,
+    "date": "2026-08-25"
+  },
+  {
+    "id": "6ff6a524-ca65-4264-a969-edc93a15f5ee",
+    "customer": "王小明",
+    "spec": "A4 影印紙 80g / 500 張",
+    "price": 110,
+    "quantity": 37,
+    "date": "2026-08-24"
+  },
+  {
+    "id": "814157ac-7186-45c2-8eab-15216ef2ea95",
+    "customer": "安心醫材",
+    "spec": "A4 影印紙 80g / 500 張",
+    "price": 132,
+    "quantity": 20,
+    "date": "2026-08-24"
+  },
+  {
+    "id": "5a3d028e-5179-4891-83ac-c9148c74bcf7",
+    "customer": "大同文具行",
+    "spec": "原子筆 0.5mm 藍色 / 50 支盒裝",
+    "price": 322,
+    "quantity": 9,
+    "date": "2026-08-24"
+  },
+  {
+    "id": "9038c098-1753-4f33-8b51-2a430f2e258c",
+    "customer": "宏達科技",
+    "spec": "原子筆 0.5mm 藍色 / 50 支盒裝",
+    "price": 338,
+    "quantity": 10,
+    "date": "2026-08-22"
+  },
+  {
+    "id": "be889aa7-950c-4df3-a6df-11ce5bedc488",
+    "customer": "永豐五金",
+    "spec": "辦公椅 人體工學網背 黑色",
+    "price": 3769,
+    "quantity": 1,
+    "date": "2026-08-21"
+  },
+  {
+    "id": "6da1ba82-9c2a-4f67-a08e-5cdd57bf0467",
+    "customer": "晨光書局",
+    "spec": "瓦楞紙箱 60×40×40cm",
+    "price": 45,
+    "quantity": 52,
+    "date": "2026-08-21"
+  },
+  {
+    "id": "61bfde23-9a98-4fba-a3e7-2509fb679f8a",
+    "customer": "永豐五金",
+    "spec": "原子筆 0.5mm 藍色 / 50 支盒裝",
+    "price": 382,
+    "quantity": 9,
+    "date": "2026-08-20"
+  },
+  {
+    "id": "a7ae1578-9fb1-4419-acf8-af1d9b8fe028",
+    "customer": "王小明",
+    "spec": "不鏽鋼螺絲 M6×20 / 100 入",
+    "price": 187,
+    "quantity": 39,
+    "date": "2026-08-20"
+  },
+  {
+    "id": "5bebfc6b-0f7c-470f-9600-9e4fd3d8b3e0",
+    "customer": "永豐五金",
+    "spec": "瓦楞紙箱 60×40×40cm",
+    "price": 43,
+    "quantity": 158,
+    "date": "2026-08-20"
+  },
+  {
+    "id": "465adbed-bb25-457a-93a1-a66efbdad18c",
+    "customer": "陳記商行",
+    "spec": "A4 影印紙 80g / 500 張",
+    "price": 109,
+    "quantity": 9,
+    "date": "2026-08-19"
+  },
+  {
+    "id": "163ae8be-5d6d-4cd5-b5ce-d830ffdb396b",
+    "customer": "新竹電子材料",
+    "spec": "辦公椅 人體工學網背 黑色",
+    "price": 3675,
+    "quantity": 2,
+    "date": "2026-08-18"
+  },
+  {
+    "id": "0105aa3c-c4eb-4f0e-919e-d09e18dd37fc",
+    "customer": "鴻運建材",
+    "spec": "抗菌洗手乳 500ml",
+    "price": 88,
+    "quantity": 42,
+    "date": "2026-08-18"
+  },
+  {
+    "id": "94348c79-e00c-4e87-b17a-519156bedb62",
+    "customer": "永豐五金",
+    "spec": "A4 影印紙 80g / 500 張",
+    "price": 109,
+    "quantity": 7,
+    "date": "2026-08-18"
+  },
+  {
+    "id": "3b18dcc6-001b-4a05-8593-6b58f2275b49",
+    "customer": "宏達科技",
+    "spec": "瓦楞紙箱 60×40×40cm",
+    "price": 49,
+    "quantity": 68,
+    "date": "2026-08-18"
+  },
+  {
+    "id": "58633efb-088c-4575-bba8-d7e6788e65ae",
+    "customer": "鴻運建材",
+    "spec": "USB-C 充電線 1m 編織款",
+    "price": 196,
+    "quantity": 60,
+    "date": "2026-08-17"
+  },
+  {
+    "id": "ba3f7107-3a4f-49f3-8416-db5d61175216",
+    "customer": "永豐五金",
+    "spec": "27 吋 IPS 螢幕 2K 75Hz",
+    "price": 6374,
+    "quantity": 1,
+    "date": "2026-08-17"
+  },
+  {
+    "id": "99923c7d-56ec-44c0-b928-43fc4fa6eed2",
+    "customer": "安心醫材",
+    "spec": "A4 影印紙 80g / 500 張",
+    "price": 119,
+    "quantity": 22,
+    "date": "2026-08-17"
+  },
+  {
+    "id": "7982456a-fa07-4554-a81e-b684f05e752b",
+    "customer": "金鼎餐飲",
+    "spec": "抗菌洗手乳 500ml",
+    "price": 96,
+    "quantity": 68,
+    "date": "2026-08-17"
+  },
+  {
+    "id": "224670b4-d347-4a1c-9d60-47c7edc7b0d8",
+    "customer": "新竹電子材料",
+    "spec": "雷射碳粉匣 HP 26A 相容",
+    "price": 1824,
+    "quantity": 5,
+    "date": "2026-08-14"
+  },
+  {
+    "id": "859a238f-9df0-4df9-8214-95e3833017ef",
+    "customer": "高雄印刷廠",
+    "spec": "瓦楞紙箱 60×40×40cm",
+    "price": 45,
+    "quantity": 138,
+    "date": "2026-08-14"
+  },
+  {
+    "id": "4d0461df-1ffe-4757-95fd-08fb90f7a519",
+    "customer": "永豐五金",
+    "spec": "咖啡豆 衣索比亞 1kg",
+    "price": 902,
+    "quantity": 14,
+    "date": "2026-08-14"
+  },
+  {
+    "id": "9e066e6e-eb15-4439-9f63-b1875e23b82e",
+    "customer": "大同文具行",
+    "spec": "USB-C 充電線 1m 編織款",
+    "price": 210,
+    "quantity": 80,
+    "date": "2026-08-14"
+  },
+  {
+    "id": "bd454d3a-7e6e-44b5-80ea-a011ca7be8c4",
+    "customer": "大同文具行",
+    "spec": "LED 燈管 T8 4 尺 18W",
+    "price": 286,
+    "quantity": 12,
+    "date": "2026-08-13"
+  },
+  {
+    "id": "27546a61-4a01-414d-8df1-bd8b7dfb232e",
+    "customer": "王小明",
+    "spec": "無線滑鼠 靜音款 灰色",
+    "price": 406,
+    "quantity": 9,
+    "date": "2026-08-13"
+  },
+  {
+    "id": "16c9947d-1340-4e59-97cf-04b44412276c",
+    "customer": "台北辦公家具",
+    "spec": "LED 燈管 T8 4 尺 18W",
+    "price": 260,
+    "quantity": 25,
+    "date": "2026-08-12"
+  },
+  {
+    "id": "17984807-ac6f-4639-8f3f-acc582134a92",
+    "customer": "永豐五金",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 154,
+    "quantity": 27,
+    "date": "2026-08-12"
+  },
+  {
+    "id": "e472e7f8-3000-4504-91f7-ad36b5187d50",
+    "customer": "陳記商行",
+    "spec": "USB-C 充電線 1m 編織款",
+    "price": 215,
+    "quantity": 77,
+    "date": "2026-08-12"
+  },
+  {
+    "id": "b0effccb-986d-490d-82ec-cf492a36d781",
+    "customer": "林美玲",
+    "spec": "LED 燈管 T8 4 尺 18W",
+    "price": 274,
+    "quantity": 22,
+    "date": "2026-08-11"
+  },
+  {
+    "id": "3e08e065-917d-409a-bd4a-a63451b8da8b",
+    "customer": "晨光書局",
+    "spec": "雷射碳粉匣 HP 26A 相容",
+    "price": 1645,
+    "quantity": 3,
+    "date": "2026-08-11"
+  },
+  {
+    "id": "e66f3081-7464-40d4-ba5b-bfe3944d4fc3",
+    "customer": "林美玲",
+    "spec": "電鑽 18V 無刷 雙電池組",
+    "price": 4134,
+    "quantity": 3,
+    "date": "2026-08-11"
+  },
+  {
+    "id": "e26b8eec-6cfa-41a5-8893-48df1ac1d5e9",
+    "customer": "宏達科技",
+    "spec": "USB-C 充電線 1m 編織款",
+    "price": 218,
+    "quantity": 56,
+    "date": "2026-08-11"
+  },
+  {
+    "id": "80e30a7a-70c2-4179-8065-886bf6c1e64d",
+    "customer": "大同文具行",
+    "spec": "不鏽鋼螺絲 M6×20 / 100 入",
+    "price": 173,
+    "quantity": 10,
+    "date": "2026-08-10"
+  },
+  {
+    "id": "add8c698-86f9-4116-bcb4-dbae3cf61e5a",
+    "customer": "鴻運建材",
+    "spec": "咖啡豆 衣索比亞 1kg",
+    "price": 932,
+    "quantity": 12,
+    "date": "2026-08-10"
+  },
+  {
+    "id": "c2d51890-008f-4805-81eb-cd02d91fd554",
+    "customer": "綠色生活館",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 138,
+    "quantity": 35,
+    "date": "2026-08-10"
+  },
+  {
+    "id": "0a7030a7-6ec6-45b2-8cf5-fcfcfc4c16cb",
+    "customer": "金鼎餐飲",
+    "spec": "抗菌洗手乳 500ml",
+    "price": 87,
+    "quantity": 56,
+    "date": "2026-08-08"
+  },
+  {
+    "id": "b25e5d34-89bb-4523-b003-17edcdbe0e24",
+    "customer": "安心醫材",
+    "spec": "咖啡豆 衣索比亞 1kg",
+    "price": 1037,
+    "quantity": 11,
+    "date": "2026-08-07"
+  },
+  {
+    "id": "4e3ee70a-889c-4952-9067-bb1dd8373520",
+    "customer": "大同文具行",
+    "spec": "雷射碳粉匣 HP 26A 相容",
+    "price": 1550,
+    "quantity": 6,
+    "date": "2026-08-07"
+  },
+  {
+    "id": "a09f06b1-183f-4662-91f0-f1a14f697ee8",
+    "customer": "金鼎餐飲",
+    "spec": "電鑽 18V 無刷 雙電池組",
+    "price": 4225,
+    "quantity": 3,
+    "date": "2026-08-07"
+  },
+  {
+    "id": "dc47216d-4f1d-45fc-ae10-473ef3ef2887",
+    "customer": "新竹電子材料",
+    "spec": "無線滑鼠 靜音款 灰色",
+    "price": 473,
+    "quantity": 11,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "f4a65e6f-f625-4d3b-94c2-e30f2ca2d323",
+    "customer": "高雄印刷廠",
+    "spec": "辦公椅 人體工學網背 黑色",
+    "price": 3933,
+    "quantity": 2,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "a9fcdd5d-0114-4559-a8ad-ab0bb9fb5961",
+    "customer": "鴻運建材",
+    "spec": "27 吋 IPS 螢幕 2K 75Hz",
+    "price": 6381,
+    "quantity": 5,
+    "date": "2026-08-06"
+  },
+  {
+    "id": "e2bfb9df-07c6-465b-b91e-eaf5fd64cc96",
+    "customer": "晨光書局",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 136,
+    "quantity": 15,
+    "date": "2026-08-05"
+  },
+  {
+    "id": "fff20d12-2608-4027-8d6c-7d898ea65675",
+    "customer": "台北辦公家具",
+    "spec": "USB-C 充電線 1m 編織款",
+    "price": 184,
+    "quantity": 59,
+    "date": "2026-08-05"
+  },
+  {
+    "id": "ef9f57e6-0905-4ee9-bf9f-a817476757e8",
+    "customer": "高雄印刷廠",
+    "spec": "瓦楞紙箱 60×40×40cm",
+    "price": 49,
+    "quantity": 155,
+    "date": "2026-08-05"
+  },
+  {
+    "id": "beb6c93d-1ff4-4eb4-b208-4094813665a8",
+    "customer": "安心醫材",
+    "spec": "辦公椅 人體工學網背 黑色",
+    "price": 3930,
+    "quantity": 4,
+    "date": "2026-08-05"
+  },
+  {
+    "id": "b7fd15d3-f20d-417f-a6cc-7b4ec2de502f",
+    "customer": "王小明",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 136,
+    "quantity": 65,
+    "date": "2026-08-04"
+  },
+  {
+    "id": "04cd74d0-a742-4275-ac8b-115db47f2c37",
+    "customer": "永豐五金",
+    "spec": "原子筆 0.5mm 藍色 / 50 支盒裝",
+    "price": 371,
+    "quantity": 7,
+    "date": "2026-08-04"
+  },
+  {
+    "id": "abaec0af-f0b9-491f-a339-e5a9c88d3c7e",
+    "customer": "新竹電子材料",
+    "spec": "LED 燈管 T8 4 尺 18W",
+    "price": 269,
+    "quantity": 20,
+    "date": "2026-08-04"
+  },
+  {
+    "id": "b5044c5a-db2e-4989-8188-fcccacd94dc4",
+    "customer": "安心醫材",
+    "spec": "L 型辦公桌 160×120cm 白橡木",
+    "price": 8342,
+    "quantity": 1,
+    "date": "2026-08-03"
+  },
+  {
+    "id": "41a4ee83-0f08-4fae-8b62-e4632f9bfd08",
+    "customer": "宏達科技",
+    "spec": "不鏽鋼螺絲 M6×20 / 100 入",
+    "price": 183,
+    "quantity": 40,
+    "date": "2026-08-03"
+  },
+  {
+    "id": "ce4cdb83-3276-4d4a-9b8a-d3cf2ee138bf",
+    "customer": "永豐五金",
+    "spec": "醫療口罩 50 入 / 盒",
+    "price": 161,
+    "quantity": 92,
+    "date": "2026-08-03"
+  },
+  {
+    "id": "4f45ba75-c8ec-4e9d-ae33-e238ede8e1b3",
+    "customer": "林美玲",
+    "spec": "水泥漆 白色 1 加侖",
+    "price": 708,
+    "quantity": 7,
+    "date": "2026-08-03"
+  },
+  {
+    "id": "0fdfe6f2-0002-48f7-a1ec-1f1a82b865c4",
+    "customer": "綠色生活館",
+    "spec": "A3 影印紙 80g / 500 張",
+    "price": 244,
+    "quantity": 3,
+    "date": "2026-08-01"
+  }
+]

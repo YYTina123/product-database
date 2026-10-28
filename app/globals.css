@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --chart-surface: #fcfcfb;
+  --chart-series: #2a78d6;
+  --chart-muted: #898781;
+  --chart-grid: #e1e0d9;
+  --chart-baseline: #c3c2b7;
+  --delta-up: #006300;
+  --delta-down: #d03b3b;
+  --sheet-header: #3e6a85;
+  --sheet-cell: #dbe6ee;
+  --sheet-cell-alt: #eaf1f5;
+  --sheet-border: #cfd9df;
+  --sheet-band: #dfe7e6;
+  --sheet-gold: #caa233;
+  --pie-1: #3e6a85;
+  --pie-2: #22343f;
+  --pie-3: #b8c4b2;
+  --pie-4: #9ccbbf;
+  --pie-5: #e3847f;
+  --pie-6: #4e8a62;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-chart-surface: var(--chart-surface);
+  --color-chart-series: var(--chart-series);
+  --color-chart-muted: var(--chart-muted);
+  --color-chart-grid: var(--chart-grid);
+  --color-chart-baseline: var(--chart-baseline);
+  --color-delta-up: var(--delta-up);
+  --color-delta-down: var(--delta-down);
+  --color-sheet-header: var(--sheet-header);
+  --color-sheet-cell: var(--sheet-cell);
+  --color-sheet-cell-alt: var(--sheet-cell-alt);
+  --color-sheet-border: var(--sheet-border);
+  --color-sheet-band: var(--sheet-band);
+  --color-sheet-gold: var(--sheet-gold);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+    --chart-surface: #1a1a19;
+    --chart-series: #3987e5;
+    --chart-grid: #2c2c2a;
+    --chart-baseline: #383835;
+    --delta-up: #0ca30c;
+    --delta-down: #e66767;
+    --sheet-header: #3e6a85;
+    --sheet-cell: #1e2a31;
+    --sheet-cell-alt: #172126;
+    --sheet-border: #2c3a43;
+    --sheet-band: #1a2221;
+    --sheet-gold: #d4ad3a;
+    --pie-1: #4f86a8;
+    --pie-2: #c7d3dc;
+    --pie-3: #8f9c8a;
+    --pie-4: #6fa99b;
+    --pie-5: #d86e69;
+    --pie-6: #5f9e74;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
